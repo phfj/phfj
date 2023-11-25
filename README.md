@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul Holmes @phfj
 - 👀 I’m interested in Software Developlent and Machine Learning & AI
-- 🌱 I’m currently learning wWeb-Development and Machine Learning
+- 🌱 I’m currently learning Web-Development and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> email: pauladrianoholmes@gmail.com 
 
